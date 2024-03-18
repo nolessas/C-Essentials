@@ -1,0 +1,14 @@
+C:\Users\Razer\Desktop\dot net\C# essentials\C# Essentials\C# Essentials\bin\Debug\net8.0\C# Essentials.exe
+C:\Users\Razer\Desktop\dot net\C# essentials\C# Essentials\C# Essentials\bin\Debug\net8.0\C# Essentials.deps.json
+C:\Users\Razer\Desktop\dot net\C# essentials\C# Essentials\C# Essentials\bin\Debug\net8.0\C# Essentials.runtimeconfig.json
+C:\Users\Razer\Desktop\dot net\C# essentials\C# Essentials\C# Essentials\bin\Debug\net8.0\C# Essentials.dll
+C:\Users\Razer\Desktop\dot net\C# essentials\C# Essentials\C# Essentials\bin\Debug\net8.0\C# Essentials.pdb
+C:\Users\Razer\Desktop\dot net\C# essentials\C# Essentials\C# Essentials\obj\Debug\net8.0\C# Essentials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Razer\Desktop\dot net\C# essentials\C# Essentials\C# Essentials\obj\Debug\net8.0\C# Essentials.AssemblyInfoInputs.cache
+C:\Users\Razer\Desktop\dot net\C# essentials\C# Essentials\C# Essentials\obj\Debug\net8.0\C# Essentials.AssemblyInfo.cs
+C:\Users\Razer\Desktop\dot net\C# essentials\C# Essentials\C# Essentials\obj\Debug\net8.0\C# Essentials.csproj.CoreCompileInputs.cache
+C:\Users\Razer\Desktop\dot net\C# essentials\C# Essentials\C# Essentials\obj\Debug\net8.0\C# Essentials.dll
+C:\Users\Razer\Desktop\dot net\C# essentials\C# Essentials\C# Essentials\obj\Debug\net8.0\refint\C# Essentials.dll
+C:\Users\Razer\Desktop\dot net\C# essentials\C# Essentials\C# Essentials\obj\Debug\net8.0\C# Essentials.pdb
+C:\Users\Razer\Desktop\dot net\C# essentials\C# Essentials\C# Essentials\obj\Debug\net8.0\C# Essentials.genruntimeconfig.cache
+C:\Users\Razer\Desktop\dot net\C# essentials\C# Essentials\C# Essentials\obj\Debug\net8.0\ref\C# Essentials.dll
